@@ -1,5 +1,5 @@
 <h1 align="center">Angelo Anselmet</h1>
-<h3 align="center">Etudiant Epitech Marseille Tek 1 PGE</h3>
+<h3 align="center">Etudiant Epitech Marseille Tek 2 PGE</h3>
 
 - 📫 Contact **angelo.anselmet@epitech.eu**
 
