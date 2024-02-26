@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runorre&label=Profile%20views&color=0e75b6&style=flat" alt="runorre" /> </p>
 
-- ⚡ Fun fact **I know all the Monsters, Inc. dialogues in French**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/runorrelemetre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="runorrelemetre" height="30" width="40" /></a>
