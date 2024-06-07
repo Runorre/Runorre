@@ -1,6 +1,8 @@
 ## About Me
 
 <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Runorre&layout=compact&theme=radical" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=Runorre&show_icons=true&theme=radical&rank_icon=github" width="400" height="200" />
 </div>
 
 ## :hammer_and_wrench: Skills
